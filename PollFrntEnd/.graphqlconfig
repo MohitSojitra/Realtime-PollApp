@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "collageFrontend": {
+      "schemaPath": "data/schema.graphql",
+      "extensions": {
+        "endpoints": {
+          "dev": {
+            "url": "http://15.207.223.48:3000/graphql"
+          },
+          "prod": {
+            "url": "http://15.207.223.48:3000/graphql"
+          }
+        }
+      }
+    } 
+  }
+}
