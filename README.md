@@ -49,7 +49,7 @@
  
 ## You Feel Any Dificulty to following above process then you can DM me on linkedin https://www.linkedin.com/in/mohit-sojitra/
 
-### Live Demo : http://15.207.223.48:3000.   ( don't know how much time it live, if it working then enjoy app if not then you can follow above stages. )
+### Live Demo : http://15.207.223.48:3000.   ( don't know how much time it live, if it working then enjoy app if not then you can follow above steps. )
 
 <br /><br />
 <h1 align="center">  Thank You  </h1>
