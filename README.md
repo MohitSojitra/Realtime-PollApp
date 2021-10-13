@@ -34,7 +34,7 @@
   2. yarn add package.json
   3. yarn build-develop
   4. yarn start
-  5. In src/environment.ts file set the environment variables.
+  5. In src/environment.ts file set the environment variables. (must to create initial userName and password)
   6. open chrome type: localhost:3000/graphql to save user name and password in databse ( NOTE : You can add only one time after that it can not be edit) , here secrat use for adding question.![Screenshot 2021-03-27 at 7 19 47 PM](https://user-images.githubusercontent.com/47450328/112722775-67a57c00-8f31-11eb-8862-8927dc4604de.png)
   7. You can see whole schema over chrome browser.
   8. Thats it you done with backend part.<br /><br/>
